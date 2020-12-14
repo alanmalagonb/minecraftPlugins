@@ -1,0 +1,10 @@
+name: SkyMine
+version: 0.0.1
+main: skymine.SkyMine
+api-version: 1.16
+author: AlanAMB
+
+commands:
+  skymine:
+    aliases: [sm]
+    description: Main plugin command
